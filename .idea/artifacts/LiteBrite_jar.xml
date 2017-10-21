@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="LiteBrite:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/LiteBrite_jar</output-path>
-    <root id="archive" name="LiteBrite.jar">
-      <element id="module-output" name="LiteBrite" />
-    </root>
-  </artifact>
-</component>
