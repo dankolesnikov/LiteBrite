@@ -1,0 +1,9 @@
+lib
+.litebrite
+.DS_STORE
+*.png
+*.xml
+*.iml
+*.properties
+
+
