@@ -3,6 +3,9 @@
 
 ![](header.png)
 
+# Description
+LiteBrite allows the artist to create a glowing picture by placing multi-colored translucent plastic pegs through opaque black paper. Using a standard lightbulb, the light is blocked by the black paper except where the pegs conduct the light. When lit, the pegs have an appearance similar to that of LEDs.
+
 ## Installation
 
 GUI:
